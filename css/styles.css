@@ -165,7 +165,7 @@ body {
   text-align: center;
   border: 1px solid transparent;
 
-  font-family: Roboto, sans-serif;
+  font-family: inherit;
   font-weight: bold;
   font-size: 16px;
   line-height: 1.87;
@@ -321,7 +321,7 @@ body {
   text-align: center;
   border: 1px solid transparent;
 
-  font-family: Roboto, sans-serif;
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
