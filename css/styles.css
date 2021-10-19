@@ -273,11 +273,9 @@ body {
 
 /* Стилизация Футера */
 .footer {
-  background: var(--third-background-color);
-}
-.footer-container {
   padding-top: 60px;
   padding-bottom: 60px;
+  background: var(--third-background-color);
 }
 
 .logo-light {
